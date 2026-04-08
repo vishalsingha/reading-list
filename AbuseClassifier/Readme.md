@@ -8,7 +8,7 @@ A production-grade, multi-tiered abuse classification platform for detecting and
 
 | Document | Description |
 |----------|-------------|
-| [01 — Architecture](docs/01-ARCHITECTURE.md) | Full system architecture, component diagrams, data flows, decision engine, scalability, failure modes, security, and technology choices |
+| [01 — Architecture](docs/Architecture.md) | Full system architecture, component diagrams, data flows, decision engine, scalability, failure modes, security, and technology choices |
 | [02 — API Specification](docs/02-API-SPECIFICATION.md) | REST API contracts, request/response schemas, authentication, error codes, rate limits, and SDK examples |
 | [03 — Data & Training](docs/03-DATA-AND-TRAINING.md) | Abuse taxonomy, labeling pipeline, feature engineering, model architecture (Tier-1 and Tier-2), training pipeline, evaluation framework, bias/fairness, and model cards |
 | [04 — Deployment & Operations](docs/04-DEPLOYMENT-AND-OPERATIONS.md) | Deployment strategy (shadow/canary/ramp), CI/CD pipelines, monitoring, alerting, incident response runbooks, capacity planning, disaster recovery |
