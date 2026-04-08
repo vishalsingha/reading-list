@@ -484,7 +484,7 @@ flowchart TD
     Evaluation -->|Any gate fails| REJECT["❌ Reject<br/>+ Notify"]
 ```
 
-### 7.2 Loss Function
+### 7.2 [Loss Function](focalloss.md)
 
 Multi-label classification with asymmetric focal loss to handle class imbalance and cost-sensitive priorities:
 
